@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "name": "yangyang",
+      "phone": "面对南方科技贷款",
+      "email": "djfkdj@qq.com",
+      "education": "hightSchool",
+      "graduationschool": "chongqing",
+      "profession": "jfdkjfkj",
+      "profile": "dfdsfaaf",
+      "id": 5
+    },
+    {
+      "name": "fkjdkjk ",
+      "phone": "jdkjfkdj",
+      "email": "dkfjdsj",
+      "education": "jkdjfkj",
+      "graduationschool": "sl.fl",
+      "profession": "dfks",
+      "profile": "dkjfkslajfiashf",
+      "id": 6
+    },
+    {
+      "name": "asdfa ",
+      "phone": "asfa",
+      "email": "asfa",
+      "education": "",
+      "graduationschool": "",
+      "profession": "",
+      "profile": "",
+      "id": 7
+    },
+    {
+      "name": "杨旭",
+      "phone": "13364064024",
+      "email": "274404901@qq.com",
+      "education": "硕士",
+      "graduationschool": "三峡大学",
+      "profession": "键盘手",
+      "profile": "牛逼啊",
+      "id": 8
+    },
+    {
+      "name": "杨旭",
+      "phone": "15549294689",
+      "email": "274404901@qq.com",
+      "education": "京东方扩大进口",
+      "graduationschool": "减肥的开始讲课费",
+      "profession": "发动机看时间",
+      "profile": "是的健康减肥",
+      "id": 9
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft is good"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google is good"
+    }
+  ],
+  "books": [
+    {
+      "bookName": "三国演义",
+      "bookAuthor": "罗贯中",
+      "bookPrice": "6",
+      "count": "3",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "bookName": "西游记",
+      "bookAuthor": "吴承恩",
+      "bookPrice": 32,
+      "count": 5
+    },
+    {
+      "id": 3,
+      "bookName": "红楼梦",
+      "bookAuthor": "曹雪芹",
+      "bookPrice": 74,
+      "count": 5
+    },
+    {
+      "bookName": "科技综合英语",
+      "bookAuthor": "刘爱军",
+      "bookPrice": "34",
+      "count": "50",
+      "introduct": "专业英语综合类的书，好书",
+      "id": 4
+    },
+    {
+      "bookName": "java基础入门",
+      "bookAuthor": "传智播客",
+      "bookPrice": "44",
+      "count": "100",
+      "introduct": "本教材由传智播客教育科技有限公司研发",
+      "id": 5
+    },
+    {
+      "bookName": "钢铁是怎样炼成的",
+      "bookAuthor": "钢铁",
+      "bookPrice": "56",
+      "count": "23",
+      "introduct": "刚",
+      "id": 6
+    },
+    {
+      "bookName": "通信原理",
+      "bookAuthor": "杨姐",
+      "bookPrice": "34",
+      "count": "654",
+      "introduct": "省份和就撒环境",
+      "id": 7
+    },
+    {
+      "bookName": "炫迈口相投",
+      "bookAuthor": "罗志祥",
+      "bookPrice": "23",
+      "count": "53",
+      "introduct": "罗志祥代言的口香糖",
+      "id": 8
+    }
+  ]
+}
